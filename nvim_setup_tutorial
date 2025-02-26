@@ -1,0 +1,16 @@
+아래의 installation 링크의 requirement 조건 맞출것.
+https://www.lazyvim.org/
+
+버전에 맞는 nvim tar 파일 다운로드
+
+압축 해제
+
+sudo mv nvim-linux64 /usr/local/
+파일 이동
+
+sudo ln -s /usr/local/nvim-linux64/bin/nvim /usr/local/bin/nvim
+심볼릭 링크 생성
+(nvim으로 실행가능해짐)
+
+https://www.lazyvim.org/installation
+installation 참조, lazyvim 다운
